@@ -1,12 +1,11 @@
-# Portfolio
-© 2022 Gary Williams.
+# My Portfolio
 
 ## Purpose
-A website that showcases and offers access to the web applications built by Gary Williams:
+A website that showcases previous work I've done as a developer.
 
 ## Built With
-* HTML
-* CSS
+HTML
+CSS
 
 ## Website
 https://willig0203.github.io/ChallengeWeek02/
