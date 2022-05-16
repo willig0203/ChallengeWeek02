@@ -1,14 +1,14 @@
-#My Portfolio
+# My Portfolio
 
-Purpose
+## Purpose
 A website that showcases previous work I've done as a developer.
 
-Built With
+## Built With
 HTML
 CSS
 
-Website
+## Website
 https://willig0203.github.io/ChallengeWeek02/
 
-Contribution
+## Contribution
 Made with ❤️ by [Gary Williams]
